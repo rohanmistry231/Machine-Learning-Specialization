@@ -1,0 +1,28 @@
+[
+    {
+        "tag": "computer-vision",
+        "aliases": [
+            "cv",
+            "vision"
+        ]
+    },
+    {
+        "tag": "graph-learning",
+        "aliases": [
+            "graphs"
+        ]
+    },
+    {
+        "tag": "mlops",
+        "aliases": [
+            "production"
+        ]
+    },
+    {
+        "tag": "natural-language-processing",
+        "aliases": [
+            "nlp",
+            "nlproc"
+        ]
+    }
+]
